@@ -2,7 +2,7 @@
 # Demo
 
 
-//library management system
+//library management system it can update by number(ISBN)
 #include <iostream>
 #include<fstream>
 
